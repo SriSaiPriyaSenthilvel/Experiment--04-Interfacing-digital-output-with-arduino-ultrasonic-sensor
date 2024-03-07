@@ -41,9 +41,6 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 ![Screenshot (142)](https://github.com/SriSaiPriyaSenthilvel/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119475702/b3da56f4-a3c0-4941-bfb7-a80ea188ec60)
 
-### SCHEMATIC VIEW:
-
-![SCHEMATIC EXP4](https://github.com/SriSaiPriyaSenthilvel/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119475702/24b8a586-4d05-4b62-9f2b-ec58b4bd8177)
 
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
@@ -115,14 +112,18 @@ void loop()
 ![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119475702/d6460979-0736-4d79-8405-22b53a248839)
 			
 ![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119475702/01e7a306-9d89-446f-b7f8-44809acfe1bb)
+
+![SCHEMATIC EXP4](https://github.com/SriSaiPriyaSenthilvel/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119475702/24b8a586-4d05-4b62-9f2b-ec58b4bd8177)
+
  			
-			
-			
+### Calculation of Average Error
+
 			Average error = sum/ number of readings 
- 
+   
+ ![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119475702/42b6ac7b-6903-4049-b761-1896d9a4f193)
+
 
 ### RESULTS
 
-
-
+Thus the program for the distance measurement using Ultrasonic sensor is been implemented successfully.
  
